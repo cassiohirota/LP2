@@ -13,7 +13,7 @@ namespace Peso_Ideal
     public partial class Form1 : Form
     {
 
-        double altura, peso, pesoIdeal, resultado;
+        double altura, peso, pesoIdeal;
 
         private void txtPeso_TextChanged(object sender, EventArgs e)
         {
