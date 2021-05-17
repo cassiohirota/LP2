@@ -1,0 +1,16 @@
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\obj\Debug\pAtividade8.csprojAssemblyReference.cache
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\obj\Debug\pAtividade8.Form1.resources
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\obj\Debug\pAtividade8.Properties.Resources.resources
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\obj\Debug\pAtividade8.csproj.GenerateResource.cache
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\obj\Debug\pAtividade8.csproj.CoreCompileInputs.cache
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\bin\Debug\pAtividade8.exe.config
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\bin\Debug\pAtividade8.exe
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\bin\Debug\pAtividade8.pdb
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\obj\Debug\pAtividade8.exe
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\obj\Debug\pAtividade8.pdb
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\obj\Debug\pAtividade8.frmExercicio2.resources
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\obj\Debug\pAtividade8.frmExercicio1.resources
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\obj\Debug\pAtividade8.frmExercicio3.resources
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\obj\Debug\pAtividade8.frmExercicio5.resources
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\obj\Debug\pAtividade8.frmExercicio6.resources
+C:\Users\cassio\source\repos\pAtividade8\pAtividade8\obj\Debug\pAtividade8.frmExercicio7.resources
