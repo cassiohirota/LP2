@@ -1,0 +1,10 @@
+C:\Users\cassio\source\repos\P30482021033\P30482021033\obj\Debug\P30482021033.csprojAssemblyReference.cache
+C:\Users\cassio\source\repos\P30482021033\P30482021033\obj\Debug\P30482021033.Form1.resources
+C:\Users\cassio\source\repos\P30482021033\P30482021033\obj\Debug\P30482021033.Properties.Resources.resources
+C:\Users\cassio\source\repos\P30482021033\P30482021033\obj\Debug\P30482021033.csproj.GenerateResource.cache
+C:\Users\cassio\source\repos\P30482021033\P30482021033\obj\Debug\P30482021033.csproj.CoreCompileInputs.cache
+C:\Users\cassio\source\repos\P30482021033\P30482021033\bin\Debug\P30482021033.exe.config
+C:\Users\cassio\source\repos\P30482021033\P30482021033\bin\Debug\P30482021033.exe
+C:\Users\cassio\source\repos\P30482021033\P30482021033\bin\Debug\P30482021033.pdb
+C:\Users\cassio\source\repos\P30482021033\P30482021033\obj\Debug\P30482021033.exe
+C:\Users\cassio\source\repos\P30482021033\P30482021033\obj\Debug\P30482021033.pdb
