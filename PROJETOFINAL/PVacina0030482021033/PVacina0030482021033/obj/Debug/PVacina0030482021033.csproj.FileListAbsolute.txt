@@ -1,0 +1,15 @@
+C:\Users\cassio\source\repos\PVacina0030482021033\PVacina0030482021033\bin\Debug\PVacina0030482021033.exe.config
+C:\Users\cassio\source\repos\PVacina0030482021033\PVacina0030482021033\bin\Debug\PVacina0030482021033.exe
+C:\Users\cassio\source\repos\PVacina0030482021033\PVacina0030482021033\bin\Debug\PVacina0030482021033.pdb
+C:\Users\cassio\source\repos\PVacina0030482021033\PVacina0030482021033\bin\Debug\aa\PVacina0030482021033.resources.dll
+C:\Users\cassio\source\repos\PVacina0030482021033\PVacina0030482021033\obj\Debug\PVacina0030482021033.csprojAssemblyReference.cache
+C:\Users\cassio\source\repos\PVacina0030482021033\PVacina0030482021033\obj\Debug\PVacina0030482021033.frmPrincipal.resources
+C:\Users\cassio\source\repos\PVacina0030482021033\PVacina0030482021033\obj\Debug\PVacina0030482021033.Properties.Resources.resources
+C:\Users\cassio\source\repos\PVacina0030482021033\PVacina0030482021033\obj\Debug\PVacina0030482021033.frmPrincipal.aa.resources
+C:\Users\cassio\source\repos\PVacina0030482021033\PVacina0030482021033\obj\Debug\PVacina0030482021033.csproj.GenerateResource.cache
+C:\Users\cassio\source\repos\PVacina0030482021033\PVacina0030482021033\obj\Debug\PVacina0030482021033.csproj.CoreCompileInputs.cache
+C:\Users\cassio\source\repos\PVacina0030482021033\PVacina0030482021033\obj\Debug\aa\PVacina0030482021033.resources.dll
+C:\Users\cassio\source\repos\PVacina0030482021033\PVacina0030482021033\obj\Debug\PVacina0030482021033.exe
+C:\Users\cassio\source\repos\PVacina0030482021033\PVacina0030482021033\obj\Debug\PVacina0030482021033.pdb
+C:\Users\cassio\source\repos\PVacina0030482021033\PVacina0030482021033\obj\Debug\PVacina0030482021033.frmVacina.resources
+C:\Users\cassio\source\repos\PVacina0030482021033\PVacina0030482021033\obj\Debug\PVacina0030482021033.frmSobre.resources
